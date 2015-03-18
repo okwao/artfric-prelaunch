@@ -1,0 +1,31 @@
+body{
+	background-image: url("/img/rebirth.jpg");
+	background-size: 100%;
+}
+.isize{
+	width: 90%;
+	margin: 5%;
+	margin-right: 20%;
+}
+.transparent {
+	margin-top: 30%;
+	background-color: rgba(255,255,255,0.5);
+	border: 0px;
+	color: black;
+}
+.panel-body {
+	padding: 20px;
+}
+h3{
+	text-align: center;
+	margin-top: -15px;
+}
+p{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+h5{
+	text-align: center;
+}
